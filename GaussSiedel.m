@@ -1,7 +1,7 @@
-# Task Description:
-# Solving a system of equations Ax = b, where A ∈ R n×n is tridiagonal, 
-# by the GaussSeidel method. Do not use a square array to store matrices
-# A (use 3 × n or n × 3 array or 3 vectors).
+% Task Description:
+% Solving a system of equations Ax = b, where A ∈ R n×n is tridiagonal, 
+% by the GaussSeidel method. Do not use a square array to store matrices
+% A (use 3 × n or n × 3 array or 3 vectors).
 
 
 function [result] = GaussSiedel
