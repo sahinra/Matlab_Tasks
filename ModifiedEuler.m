@@ -1,3 +1,8 @@
+% Task Description:
+% Modified (improved) Euler method (the 2nd order method with γ = 1/2 - cf) for a system of 2 ordinary
+% differential equations.
+
+
 function [] = ModifiedEuler(f,x0,xn,y0,z0,h,a,b,c,d,func1,func2)
 % y' = f(x,y) and z' = f(x,z)
 % x0,y0,z0 denotes the inital values and xn is the final value
